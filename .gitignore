@@ -1,0 +1,7 @@
+outputs/
+results/
+temp/
+figs/
+__pycache__/
+*.sh
+*.pkl
